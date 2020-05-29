@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>Manu.Arrays</StartupObject>
+    <StartupObject>Manu.Test</StartupObject>
   </PropertyGroup>
 
 </Project>
