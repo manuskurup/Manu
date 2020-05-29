@@ -4,6 +4,11 @@ using System.Text;
 
 namespace Manu
 {
+
+    class A
+    {
+       
+    }
     public class Emp1
     {
       public  void SameName()
